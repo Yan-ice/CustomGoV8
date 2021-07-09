@@ -1,0 +1,13 @@
+﻿main: fw.Fwmain
+author: 千千
+usuage: /fw
+version: 8
+name: CustomGo
+softdepend: [PlaceholderAPI,Vault,PlayerPoints,CustomGo-Tili]
+commands:
+  fw:
+    description: main command
+  fwc:
+    description: chat command
+  fwtask:
+    description: test command

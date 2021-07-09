@@ -1,0 +1,10 @@
+Debug: false
+#是否开启测试模式。如果开启，使用插件任何指令都需要fw.debug权限。
+#并且在测试中后台会有详细的插件处理信息。
+
+HighVersionPlaceHolderApi: true
+#如果您的PAPI版本高于2.8，在这里写true，反之写false。
+
+HighMCVersion: true
+#如果开启，将完全运行所有功能，其中包括一些MC1.9以上才有的新功能。
+#如果您的MC版本低于1.9，请在这里填写false，否则会直接报错。
